@@ -23,6 +23,8 @@ https://git-scm.com/download
 - `git log` // visualiza os pontos na linha do tempo / commit
 - `git status` // informa o estado das alterações do nosso projecto
 - `git show` // apresenta determinado ponto na história
-- `git merge` // junta as duas linhas do tempo (feature -> master)
+- `git merge` // junta as linhas do tempo (ex: feature -> master)
 - `git branch` // cria uma branch nova (branch é uma linha paralela no tempo)
 - `git branch -D` // elimina uma branch
+- `git checkout` // manipula as linhas do tempo
+- `git push` // envia alterações locais para o repositório remoto
